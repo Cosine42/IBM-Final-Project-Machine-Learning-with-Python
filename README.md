@@ -28,4 +28,4 @@ After comparing the various models, these conclusions were obtained:
 | KNN                | 0.740741| 0.851064 | NA      |
 | Decision Tree      | 0.680851| 0.810127 | NA      |
 | SVM                | 0.740741| 0.630418 | NA      |
-| LogisticRegression | 0.740741| 0.630418 | 25.5843 |
+| LogisticRegression | 0.740741| 0.630418 | 8.9547  |
